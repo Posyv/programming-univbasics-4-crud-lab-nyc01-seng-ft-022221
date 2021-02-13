@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  family = ["Reed", "Lily", "Posy", "Sage"]
-  family << "wow"
+  puts("#{array}")
+  add_element_to_end_of_array << "#{element}"
 end
 
 def add_element_to_start_of_array(array, element)
