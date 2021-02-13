@@ -27,7 +27,7 @@ array.index("element")
 end
 
 def retrieve_first_element_from_array(array)
-array.
+array.index[0]
 end
 
 def retrieve_last_element_from_array(array)
